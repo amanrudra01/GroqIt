@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+langchain
+Langchain_community
+Langchain-core
+Langchain-groq
+groq
+python-dotenv
