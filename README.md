@@ -1,6 +1,6 @@
-# Groqit 🧠⚡
+# GroqIt 🧠⚡
 
-**Groqit** is a lightweight AI chatbot powered by [Groq](https://groq.com/) and [LangChain](https://www.langchain.com/). It provides ultra-fast responses via a terminal-style web interface, ideal for developers and AI enthusiasts.
+**GroqIt** is a lightweight AI chatbot powered by [Groq](https://groq.com/) and [LangChain](https://www.langchain.com/). It provides ultra-fast responses via a terminal-style web interface, ideal for developers and AI enthusiasts.
 
 ---
 
@@ -16,12 +16,14 @@
 
 ## 📁 Project Structure
 ```
-├── app.py             # FastAPI backend
-├── index.html         # Frontend interface
-├── script.js          # Frontend logic
-├── styles.css         # Chat UI styling
-├── requirement.txt    # Python dependencies
-├── .env               # API key config
+GroqIt/
+  ├── app.py             # FastAPI backend
+  ├── index.html         # Frontend interface
+  ├── script.js          # Frontend logic
+  ├── styles.css         # Chat UI styling
+  ├── requirement.txt    # Python dependencies
+  └── .env               # API key config
+ 
 ```
 
 ---
@@ -49,20 +51,19 @@ uvicorn app:app --reload
 ```
 5.	**Open index.html in your browser to chat!**
 
-⸻
+---
 
 ##🌐 Example Prompt
 
 “What is LangChain and how does it work?”
 
-⸻
+---
 
 📄 License
 
 MIT License © 2025 Aman Chand
 
-⸻
-
+---
 🙌 Credits
 
 Built using:
