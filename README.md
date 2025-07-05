@@ -31,7 +31,7 @@
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/groqit.git
+git clone https://github.com/amanrudra01/GroqIt.git
 cd groqit
 ```
 2.	**Install Python dependencies**
@@ -59,7 +59,7 @@ uvicorn app:app --reload
 
 📄 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 Aman Chand
 
 ⸻
 
