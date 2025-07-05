@@ -15,3 +15,61 @@
 ---
 
 ## 📁 Project Structure
+```
+├── app.py             # FastAPI backend
+├── index.html         # Frontend interface
+├── script.js          # Frontend logic
+├── styles.css         # Chat UI styling
+├── requirement.txt    # Python dependencies
+├── .env               # API key config
+```
+
+---
+
+## 🔧 Setup Instructions
+
+1. **Clone the repo**
+
+```bash
+git clone https://github.com/yourusername/groqit.git
+cd groqit
+```
+2.	**Install Python dependencies**
+```
+pip install -r requirement.txt
+```
+
+3.	**Set up your .env file**
+```
+GROQ_API_KEY=your_groq_api_key_here
+```
+4.	**Run the FastAPI server**
+```
+uvicorn app:app --reload
+```
+5.	**Open index.html in your browser to chat!**
+
+⸻
+
+##🌐 Example Prompt
+
+“What is LangChain and how does it work?”
+
+⸻
+
+📄 License
+
+MIT License © 2025 [Your Name]
+
+⸻
+
+🙌 Credits
+
+Built using:
+	•	Groq
+	•	LangChain
+	•	FastAPI
+
+
+
+
