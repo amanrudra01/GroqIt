@@ -53,7 +53,7 @@ uvicorn app:app --reload
 
 ---
 
-##🌐 Example Prompt
+🌐 Example Prompt
 
 “What is LangChain and how does it work?”
 
