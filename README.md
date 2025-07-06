@@ -4,7 +4,6 @@
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-green?style=flat-square&logo=fastapi)
 ![Groq](https://img.shields.io/badge/LLM-Groq-red?style=flat-square)
 ![LangChain](https://img.shields.io/badge/Framework-LangChain-blueviolet?style=flat-square)
-![Status](https://img.shields.io/badge/Project-Active-brightgreen?style=flat-square)
 
 **GroqIt** is a lightweight AI chatbot powered by [Groq](https://groq.com/) and [LangChain](https://www.langchain.com/). It provides ultra-fast responses via a terminal-style web interface, ideal for developers and AI enthusiasts.
 
