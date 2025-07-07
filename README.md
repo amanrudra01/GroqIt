@@ -30,7 +30,6 @@ GroqIt/
   └── .env               # API key config
  
 ```
-
 ---
 
 ## 🔧 Setup Instructions
